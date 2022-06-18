@@ -1,0 +1,28 @@
+.container {
+  padding: 0 2rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+/* 
+.main {
+  justify-content: center;
+  display: flex;
+} */
+
+.title {
+  margin: 0 0 50px;
+}
+
+.register {
+  width: 150px;
+  height: 40px;
+  background-color: #D9D9D9;
+  display: flex;
+  margin: 10px auto;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
